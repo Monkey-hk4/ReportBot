@@ -20,6 +20,7 @@
 - No se encuentra disponible
 
 # Servidor Discord 
+Esta herramienta fue subida para promocionar el servidor de discord 
 - https://discord.gg/WMhdGvBWA8
 
 
