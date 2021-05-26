@@ -14,5 +14,4 @@ logo = """
 
 def print_logo():
     print(Fore.RED + Style.BRIGHT + logo + Style.RESET_ALL + Style.BRIGHT +"\n")
-    print(Fore.YELLOW + "      https://discord.gg/WMhdGvBWA8"+ Style.RESET_ALL + Style.BRIGHT)
     print(Style.RESET_ALL + Style.BRIGHT, Style.BRIGHT)
